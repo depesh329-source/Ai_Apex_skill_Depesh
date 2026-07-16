@@ -1,0 +1,1 @@
+An end-to-end Employee Analytics project that combines SQL and Python for data analysis. The project involves designing a relational database, querying data with SQL, analyzing it using Pandas and NumPy, and generating business insights from employee data. It demonstrates practical skills in SQL, data manipulation, and analytics.
